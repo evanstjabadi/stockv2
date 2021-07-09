@@ -37,7 +37,7 @@ Notice that output = [predicted price, error(%), date of the next business day]
 
 # Evans
 
-* `python setup.py install`
+* `python setup.py install --user`
 * `pip install -r requirements.txt`
 
 * `python predictor.py`
